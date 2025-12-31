@@ -1,5 +1,5 @@
 # Basic-HTML-Website
-This is a beginner-friendly HTML-only portfolio website created as part of the 
+This is a beginner-friendly HTML-only portfolio website created as part of the
 👉 https://roadmap.sh/projects/basic-html-website
 
 The goal of this project is to practice proper HTML structure, semantics, and page organization while building a simple personal website.
